@@ -1,0 +1,23 @@
+{
+  "name": "playwright-typescript-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QA-Automation-2026/Playwright-Typescript-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/QA-Automation-2026/Playwright-Typescript-AI/issues"
+  },
+  "homepage": "https://github.com/QA-Automation-2026/Playwright-Typescript-AI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
